@@ -1,5 +1,4 @@
 ﻿// ConsoleApplication2.cpp : Defines the entry point for the console application.
-//Fuck off bitch
 #include "stdafx.h"
 #include<iostream>
 #include<conio.h>
@@ -41,7 +40,7 @@ int main()
 {
 	int no;
 	user *c;
-	cout << "Enter the no of user";
+	cout << "Enter the no. of user";
 	cin >> no;
 	c = new user [no];
 	
